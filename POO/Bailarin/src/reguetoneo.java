@@ -1,8 +1,6 @@
 public class reguetoneo extends bailarin{
-    /*@Override
+    @Override
     public void bailar() {
         System.out.println("Perreando..");
     }
-    */
-
 }
