@@ -1,8 +1,8 @@
 Miembros
-Andres David Restrepo Hernandez
-JAVA
-IntelliJ Idea
-Amazon Corretto 17
+- Andres David Restrepo Hernandez
+- JAVA
+- IntelliJ Idea
+- Amazon Corretto 17
 
 Instrucciones:
 Desarrolla un sistema llamado "creación de seres vivos", dividiéndolos en dos categorías principales: aquellos que pertenecen al cielo y aquellos que pertenecen a la tierra. Los seres vivos de la tierra no podrán acceder a ciertas características de los seres del cielo, excepto los humanos. Además, implementaremos el patrón de diseño Factory, utilizando una interfaz común Creator para ambos tipos de seres vivos.
